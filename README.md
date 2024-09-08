@@ -19,5 +19,5 @@ Check how many mines are around.
 # Stage 4/5 Prepare for the battle
 Implement the rules of the game.
 
-# Stage 5/5 Battle
+# Stage 5/5 Battle!
 Be a real sapper. Find all the mines.
